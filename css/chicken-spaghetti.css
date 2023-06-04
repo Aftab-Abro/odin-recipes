@@ -6,19 +6,39 @@ body{
 .main-box{
     background-color: yellow;
     margin: 10px auto;
-    padding: 10px;
+    padding: 20px;
 }
 .title{
     font-size: 50px;
     border: 1px solid white;
     width: 445px;
     padding: 5px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
     margin-bottom: 20px;
 }
 img{
     width: 500px ;
     height: 350px;
     display: block;
-    margin: 5px 10px;
+    margin: 5px 0;
+}
+
+p{
+    font-size: 20px;
+    width: 600px;
+    /* margin-left: 10px; */
+}
+.ingred{
+    border: 1px solid white;
+    /* display: inline-block; */
+    width: 132px;
+    padding: 3px;
+}
+.steps{
+    border: 1px solid white;
+    width: 70px;
+    padding: 3px;
+}
+.steps-container{
+    width: 500px;
 }
